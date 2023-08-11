@@ -1,11 +1,11 @@
 {
-  "name": "project-group-15",
+  "name": "watch-website",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-group-15/",
+    "build": "vite build --base=/watch-website/",
     "preview": "vite preview"
   },
   "devDependencies": {
